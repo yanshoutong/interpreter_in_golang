@@ -1,2 +1,2 @@
 # interpreter_in_golang
-An interpreter implemented with Golang
+An interpreter implemented in Golang
